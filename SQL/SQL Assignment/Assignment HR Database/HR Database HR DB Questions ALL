@@ -278,7 +278,7 @@ COALESCE(null, 0) AS Commission_Earned FROM Employees;
 
 -- 12. Display the Managers (name) with top three salaries along with their salaries and department information.
 
------------------------------------------------------------------------------ PAGE4 ------------------------------------------------------------------------------------
+----------------------------------------------------------------------------- PAGE5 ------------------------------------------------------------------------------------
 
 -- 1. Write a query that displays the employee's last names only from the string's 2-5th position with the first letter capitalized and all other letters lowercase,
 -- Give each column an appropriate label.
